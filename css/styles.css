@@ -1,0 +1,68 @@
+body {
+  background-color: #0b0d1e;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+span {
+  color: #973aa8;
+}
+
+h1 {
+  padding: 375% 375% 0 375%;
+  color: white;
+  font-size: 210%;
+}
+
+p {
+  padding: 0 375% 0 375%;
+  margin: 0;
+}
+
+h2 {
+  padding: 218.75% 375% 0 375%;
+  margin: 0;
+}
+
+h3 {
+  color: white;
+  font-weight: lighter;
+}
+
+img {
+  float: right;
+  background: #e0aaff;
+  border-radius: 0 62.5% 62.5% 0;
+  margin-left: 80px;
+  opacity: 0.4;
+}
+
+.main{
+  padding: 0 375% 40px 375%;
+  line-height: 2;
+}
+
+.main-card{
+  border-radius: 10px;
+  margin: 150px auto;
+  background-color: #17012e;
+  text-align: left;
+  width: 70%;
+  height: 446px;
+}
+
+.stats{
+  padding: 0;
+  margin:0;
+  position: relative;
+  left: 200px;
+  bottom: 49px;
+}
+
+.stat{
+  padding:0;
+  margin:0;
+  position: relative;
+  left: 340px;
+  bottom: 98px;
+}
